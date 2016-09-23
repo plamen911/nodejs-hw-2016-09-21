@@ -1,0 +1,19 @@
+{
+  "name": "hw-2016-09-21",
+  "version": "1.0.0",
+  "description": "Node.JS Web Server, Development Tools - Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Plamen Markov",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6"
+  }
+}
